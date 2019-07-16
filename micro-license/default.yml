@@ -1,0 +1,3 @@
+micro:
+  config:
+    example: config-server.config in https://github.com/devinx3/config/micro-license/default.yml
