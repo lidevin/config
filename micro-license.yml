@@ -1,3 +1,0 @@
-micro:
-  config:
-    example : config-server.config in git:micro-license.yml
